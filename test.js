@@ -1,1 +1,3 @@
-console.log("Hello from test");
+const hello = () => console.log("Hello from test");
+
+module.exports = hello
